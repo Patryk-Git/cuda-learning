@@ -1,4 +1,4 @@
-<div align="center"><img src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="CUDA"></div> 
+<div align="center"><img src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="CUDA" height="80"></div> 
 
 ## LEARNING PATH - From Basics to Advanced CUDA Programming
 
