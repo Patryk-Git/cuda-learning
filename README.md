@@ -2,23 +2,23 @@ Plan for becoming profesional CUDA (Deep Learning focused) programmer. CUDA from
 
 ## LEARNING PATH
 1. C - if you are not familiar with C programming. Before we jump into C++ basic knowledge of C is mandatory.
-   - PL: [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)
-   - PL: [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-w-jezyku-c)
+   - 🇵🇱 [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)
+   - 🇵🇱 [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-w-jezyku-c)
    - The C programming language (ANSI C) - Brian Kernighan i Dennis Ritchie
 2. Data Structures
    - [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)
    - [Data Structures and Alghorithms](https://github.com/sachuverma/DataStructures-Algorithms) ->> [Leetcode](https://leetcode.com/)
-   - PL: Algorytmy, struktury danych i techniki programowania. Paweł Wróblewski.
-   - PL: C++. Algorytmy i struktury danych. Adam Drozdek 
+   - 🇵🇱 Algorytmy, struktury danych i techniki programowania. Paweł Wróblewski.
+   - 🇵🇱 C++. Algorytmy i struktury danych. Adam Drozdek 
 3. C++
    - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) or in Polish [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)
-   - PL: Books: Język C++ kompendium wiedzy.
+   - 🇵🇱 Books: Język C++ kompendium wiedzy.
 4. Parallel Computing
    - [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)
-   - PL: [Programowanie równolegle z wykorzystaniem wspólczesnych architektur komputerowych z pamiecia wspóldzielona](https://icis.pcz.pl/~khalbiniak/OpenMP/)
-   - PL: [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+   - 🇵🇱 [Programowanie równolegle z wykorzystaniem wspólczesnych architektur komputerowych z pamiecia wspóldzielona](https://icis.pcz.pl/~khalbiniak/OpenMP/)
+   - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 5. CUDA
-   - PL: [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
+   - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
    - [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)
    - [CUDA samples](https://github.com/NVIDIA/cuda-samples)
    - [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
