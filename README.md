@@ -12,32 +12,33 @@ This structured learning path guides you through the essential steps required to
 
 2. **Data Structures**:  
    Learn essential data structures and algorithms, a prerequisite for effective problem-solving and programming.  
-   - [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)  
+   - 🎥[C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)  
    - [Data Structures and Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) -> [Leetcode](https://leetcode.com/)  
-   - 🇵🇱 *Algorytmy, struktury danych i techniki programowania* by Paweł Wróblewski  
-   - 🇵🇱 *C++. Algorytmy i struktury danych* by Adam Drozdek  
+   - 🇵🇱 📖 *Algorytmy, struktury danych i techniki programowania* by Paweł Wróblewski  
+   - 🇵🇱 📖 *C++. Algorytmy i struktury danych* by Adam Drozdek  
 
 3. **C++ Programming**:  
    Master C++ programming as it serves as a foundation for CUDA development.  
-   - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)  
-   - 🇵🇱 [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)  
-   - 🇵🇱 *Język C++ Kompendium Wiedzy*
-   - [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)
+   - 🎥 [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)  
+   - 🇵🇱 🎥 [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)
+   - 🇵🇱 📖 [Opus magnum C++11](https://www.ifj.edu.pl/private/grebosz/opus.html)
+   - 🇵🇱 📖 *Język C++ Kompendium Wiedzy* by Bjarne Stroustrup
+   - 🎥 [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)
 
 4. **Parallel Computing**:  
    Understand the basics of parallel computing and modern hardware architectures.  
-   - [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
-   - 🇵🇱 [Programowanie równolegle z wykorzystaniem współczesnych architektur komputerowych z pamięcią współdzieloną](https://icis.pcz.pl/~khalbiniak/OpenMP/)  
+   - 🎥 [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
+   - 🇵🇱 🎥 [Programowanie równolegle z wykorzystaniem współczesnych architektur komputerowych z pamięcią współdzieloną](https://icis.pcz.pl/~khalbiniak/OpenMP/)  
    - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-   - [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
+   - 🎥 [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
 
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)  
-   - [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)  
+   - 🎥 [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)  
    - [CUDA Samples](https://github.com/NVIDIA/cuda-samples)  
-   - [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)  
-   - *Programming Massively Parallel Processors*  
+   - 🎥 [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)  
+   - 📖 *Programming Massively Parallel Processors* by  David B. Kirk, Wen-mei W. Hwu  
 
 6. **Triton**:  
    Explore the Triton framework for GPU programming with efficient performance.  
