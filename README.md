@@ -1,35 +1,51 @@
 Plan for becoming profesional CUDA (Deep Learning focused) programmer. CUDA from Zero to Hero.
 
-## LEARNING PATH
-1. C - if you are not familiar with C programming. Before we jump into C++ basic knowledge of C is mandatory.
-   - 🇵🇱 [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)
-   - 🇵🇱 [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-w-jezyku-c)
-   - The C programming language (ANSI C) - Brian Kernighan i Dennis Ritchie
-2. Data Structures
-   - [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)
-   - [Data Structures and Alghorithms](https://github.com/sachuverma/DataStructures-Algorithms) ->> [Leetcode](https://leetcode.com/)
-   - 🇵🇱 Algorytmy, struktury danych i techniki programowania. Paweł Wróblewski.
-   - 🇵🇱 C++. Algorytmy i struktury danych. Adam Drozdek 
-3. C++
-   - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) or in Polish [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)
-   - 🇵🇱 Books: Język C++ kompendium wiedzy.
-4. Parallel Computing
-   - [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)
-   - 🇵🇱 [Programowanie równolegle z wykorzystaniem wspólczesnych architektur komputerowych z pamiecia wspóldzielona](https://icis.pcz.pl/~khalbiniak/OpenMP/)
-   - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-5. CUDA
-   - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
-   - [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)
-   - [CUDA samples](https://github.com/NVIDIA/cuda-samples)
-   - [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
-   - Programming Massively Parallel Processors
-6. Triton
-   - [Remek's Triton repo](https://github.com/rkinas/triton-resources)
-  
-7. GPU architecture and glossary
-   - [GPU Glossary](https://modal.com/gpu-glossary)
+## LEARNING PATH - From Basics to Advanced CUDA Programming
 
-8. C/C++ sample LLM implementation (inference, training, kernels) 
+This structured learning path guides you through the essential steps required to become proficient in CUDA programming, starting from foundational programming knowledge to advanced GPU computing concepts. The path emphasizes building a strong base in programming, understanding data structures, mastering C++, and diving into GPU architecture and CUDA-specific optimizations. Resources include both English and Polish materials, offering flexibility based on language preference.
+
+1. **C Programming**:  
+   Begin with C programming if you are unfamiliar with it. A solid understanding of C is mandatory before transitioning to C++ programming.  
+   - 🇵🇱 [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)  
+   - 🇵🇱 [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-jezyku-c)  
+   - *The C Programming Language (ANSI C)* by Brian Kernighan and Dennis Ritchie  
+
+2. **Data Structures**:  
+   Learn essential data structures and algorithms, a prerequisite for effective problem-solving and programming.  
+   - [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)  
+   - [Data Structures and Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) -> [Leetcode](https://leetcode.com/)  
+   - 🇵🇱 *Algorytmy, struktury danych i techniki programowania* by Paweł Wróblewski  
+   - 🇵🇱 *C++. Algorytmy i struktury danych* by Adam Drozdek  
+
+3. **C++ Programming**:  
+   Master C++ programming as it serves as a foundation for CUDA development.  
+   - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)  
+   - 🇵🇱 [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)  
+   - 🇵🇱 *Język C++ Kompendium Wiedzy*  
+
+4. **Parallel Computing**:  
+   Understand the basics of parallel computing and modern hardware architectures.  
+   - [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
+   - 🇵🇱 [Programowanie równolegle z wykorzystaniem współczesnych architektur komputerowych z pamięcią współdzieloną](https://icis.pcz.pl/~khalbiniak/OpenMP/)  
+   - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)  
+
+5. **CUDA Programming**:  
+   Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
+   - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)  
+   - [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)  
+   - [CUDA Samples](https://github.com/NVIDIA/cuda-samples)  
+   - [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)  
+   - *Programming Massively Parallel Processors*  
+
+6. **Triton**:  
+   Explore the Triton framework for GPU programming with efficient performance.  
+   - [Remek's Triton Repo](https://github.com/rkinas/triton-resources)  
+
+7. **GPU Architecture and Glossary**:  
+   Familiarize yourself with GPU architecture and terminology to deepen your understanding of hardware capabilities.  
+   - [GPU Glossary](https://modal.com/gpu-glossary)  
+
+This comprehensive learning path equips you with the skills needed to progress from foundational programming to advanced CUDA development, paving the way for a career in GPU-accelerated computing.
 
 ## Matmul ##
 This section focuses on understanding the fundamentals and optimization of matrix multiplication (Matmul), a cornerstone operation in CUDA programming and high-performance computing (HPC). The provided resources cover both CPU implementations and GPU optimizations, including the use of Tensor Cores on architectures like Ampere and Ada. These materials are essential for building a strong foundation in writing optimized CUDA code.
