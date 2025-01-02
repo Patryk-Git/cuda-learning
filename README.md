@@ -29,10 +29,23 @@ Plan for becoming profesional CUDA (Deep Learning focused) programmer. CUDA from
 7. GPU architecture and glossary
    - [GPU Glossary](https://modal.com/gpu-glossary)
 
-8. C/C++ sample LLM implementation (inference, training, kernels)
-   - [llm.c](https://github.com/karpathy/llm.c)
-   - [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
+8. C/C++ sample LLM implementation (inference, training, kernels) 
 
+## Matmul ##
+This section focuses on understanding the fundamentals and optimization of matrix multiplication (Matmul), a cornerstone operation in CUDA programming and high-performance computing (HPC). The provided resources cover both CPU implementations and GPU optimizations, including the use of Tensor Cores on architectures like Ampere and Ada. These materials are essential for building a strong foundation in writing optimized CUDA code.
+
+#### Contents:
+- **Matmul on CPU**: Analysis of efficient matrix multiplication implementations on CPUs, with detailed examples of optimizations:
+  - [Beating OpenBLAS in FP32 Matrix Multiplication: A Full Walkthrough](https://salykova.github.io/matmul-cpu)
+  - [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
+- **CUDA Matmul Optimizations**:
+  - Ampere Architecture: [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
+  - Ada Architecture: [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
+  - GPU H100: [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
+- **Theory and Basics**:
+  - [Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+
+These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
 
 ## GPU programming resources
 1. Communities
@@ -56,12 +69,8 @@ Plan for becoming profesional CUDA (Deep Learning focused) programmer. CUDA from
  - [CUDA programming](https://www.youtube.com/playlist?list=PLU0zjpa44nPXddA_hWV1U8oO7AevFgXnT)
  - [george hotz archive](https://www.youtube.com/@geohotarchive/videos) 
 6. Example implementations
-- CPU Matmul [Beating OpenBLAS in FP32 Matrix Multiplication: A Full Walkthrough](https://salykova.github.io/matmul-cpu)
-- CPU Matmul [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
-- Matmul Ampere [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
-- Matmul Ada [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
-- Matmul [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
-- Matmul [Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+- [llm.c](https://github.com/karpathy/llm.c)
+- [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
  - [mnist CUDA](https://github.com/Infatoshi/mnist-cuda)
  - Softmax [Szymon Ożóg - Softmax](https://github.com/SzymonOzog/FastSoftmax)
  - Inference [yalm (Yet Another Language Model) is an LLM inference implementation in C++/CUDA](https://github.com/andrewkchan/yalm/tree/main) and article [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html) 
