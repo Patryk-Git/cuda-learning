@@ -64,63 +64,111 @@ This section focuses on understanding the fundamentals and optimization of matri
 These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
 
 ## GPU programming resources
-1. Communities
-   - [Nvidia CUDA](https://forums.developer.nvidia.com/c/accelerated-computing/cuda/206)
-2. GPU Architectures 
-   - [Ampere](https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth/)
-   - [Ada](https://images.nvidia.com/aem-dam/en-zz/Solutions/technologies/NVIDIA-ADA-GPU-PROVIZ-Architecture-Whitepaper_1.1.pdf)
-   - [Hooper](https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/)
-   - [Grace-Hooper](https://developer.nvidia.com/blog/nvidia-grace-hopper-superchip-architecture-in-depth/)
-   - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
-3. Tutorials
-   - [How to Accurately Time CUDA Kernels in Pytorch](https://www.speechmatics.com/company/articles-and-news/timing-operations-in-pytorch)
-4. Courses
-  - [Parallel Computing Using Cuda-C](https://github.com/CisMine/Parallel-Computing-Cuda-C?tab=readme-ov-file)
-  - [CUDA-course](https://github.com/Infatoshi/cuda-course)
-  - [CUDA Tutorial Code Samples](https://github.com/CUDA-Tutorial/CodeSamples)
-  - [CUDA Tutorial](https://cuda-tutorial.github.io/)
-5. Videos
- - [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)
- - [Simon Oz - GPU Programming](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
- - [CUDA programming](https://www.youtube.com/playlist?list=PLU0zjpa44nPXddA_hWV1U8oO7AevFgXnT)
- - [george hotz archive](https://www.youtube.com/@geohotarchive/videos) 
-6. Example implementations
-- [llm.c](https://github.com/karpathy/llm.c)
-- [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
- - [mnist CUDA](https://github.com/Infatoshi/mnist-cuda)
- - Softmax [Szymon Ożóg - Softmax](https://github.com/SzymonOzog/FastSoftmax)
- - Inference [yalm (Yet Another Language Model) is an LLM inference implementation in C++/CUDA](https://github.com/andrewkchan/yalm/tree/main) and article [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html) 
- - Inference [This is an implementation of language model inference, aiming to get maximum single-GPU single-batch hardware utilization for LLM architectures with a minimal implementation and no dependencies](https://github.com/zeux/calm)
- - Training + inference [llm.cpp](https://github.com/karpathy/llm.c/tree/master)
- - [CUTLASS Tutorial: Fast Matrix-Multiplication with WGMMA on NVIDIA® Hopper™ GPUs](https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/)
-7. Kernel Leaderboard
-   - [kernel leaderboard](https://scalingintelligence.stanford.edu/KernelBenchLeaderboard/)
-   - [kernel bench](https://scalingintelligence.stanford.edu/blogs/kernelbench/) oraz [KernelBench - Can LLMs Write GPU Kernels?](https://scalingintelligence.stanford.edu/blogs/kernelbench/)
-8. Benchmarking
- - [MI300X vs H100 vs H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
- - [Forecasting GPU Performance for Deep Learning Training and Inference](https://arxiv.org/pdf/2407.13853)
- - [Benchmarking and Dissecting the Nvidia Hopper GPU Architecture](https://arxiv.org/pdf/2402.13499v1)
- - Example of 4090 (48GB) benchmark workflow [Testing the 4090 48GB](https://main-horse.github.io/posts/4090-48gb/)
- - Benchmarking FLOPS [Maximum Achievable Matmul FLOPS Finder](https://github.com/stas00/ml-engineering/tree/master/compute/accelerator/benchmarks) ogólnie fajna książka też w PDF [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
-- FLOPS [THOP: PyTorch-OpCounter](https://github.com/ultralytics/thop/tree/main/thop)
-- FLOPS [calflops: a FLOPs and Params calculate tool for neural networks](https://github.com/MrYxJ/calculate-flops.pytorch/)
-- FLOPS [DeepSpeed Flops Profiler](https://www.deepspeed.ai/tutorials/flops-profiler/)
-- FLOPS [Flop Counter for PyTorch Models](https://github.com/facebookresearch/fvcore/blob/main/docs/flop_count.md)
-- FLOPS [torch_flops](https://github.com/zugexiaodui/torch_flops)
-- FLOPS [torchanalyse](https://github.com/HaoKang-Timmy/torchanalyse)
-- FLOPS [FLOPS counter](https://gist.github.com/soumith/5f81c3d40d41bb9d08041431c656b233)
-- FLOPS https://arxiv.org/abs/2407.13853
-- MODEL-INFO [torchinfo](https://github.com/TylerYep/torchinfo)
-9. Patterns and alghorithms
- - [HPC Matmul](https://en.algorithmica.org/hpc/algorithms/matmul/)
-10. Article
-   - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
-11. CUDA Frameworks
-   - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
-12. Papers
- - [The Case for Co-Designing Model Architectures with Hardware](https://arxiv.org/pdf/2401.14489)
-13. Tools
-   - [The Kernel Tuner](https://kerneltuner.github.io/kernel_tuner/stable/contents.html)
+### Description of the Section: GPU Programming Resources
+
+This section provides a curated collection of resources for learning, exploring, and mastering GPU programming. It covers various aspects of GPU development, including community engagement, architectural insights, tutorials, example implementations, benchmarking, and advanced tools. These resources cater to developers at different expertise levels, offering a pathway to build and optimize high-performance GPU applications.
+
+---
+
+#### **1. Communities**  
+Engage with fellow developers and experts in the field of GPU programming:  
+- [NVIDIA CUDA Forum](https://forums.developer.nvidia.com/c/accelerated-computing/cuda/206)
+
+---
+
+#### **2. GPU Architectures**  
+Understand the underlying architecture of GPUs to optimize code efficiently:  
+- [Ampere Architecture](https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth/)  
+- [Ada Architecture](https://images.nvidia.com/aem-dam/en-zz/Solutions/technologies/NVIDIA-ADA-GPU-PROVIZ-Architecture-Whitepaper_1.1.pdf)  
+- [Hopper Architecture](https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/)  
+- [Grace-Hopper Architecture](https://developer.nvidia.com/blog/nvidia-grace-hopper-superchip-architecture-in-depth/)  
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+
+---
+
+#### **3. Tutorials**  
+Learn the practical aspects of GPU programming with these tutorials:  
+- [Accurate Timing of CUDA Kernels in PyTorch](https://www.speechmatics.com/company/articles-and-news/timing-operations-in-pytorch)
+
+---
+
+#### **4. Courses**  
+Comprehensive courses to deepen your GPU programming skills:  
+- [Parallel Computing Using CUDA-C](https://github.com/CisMine/Parallel-Computing-Cuda-C?tab=readme-ov-file)  
+- [CUDA Course](https://github.com/Infatoshi/cuda-course)  
+- [CUDA Tutorial Code Samples](https://github.com/CUDA-Tutorial/CodeSamples)  
+- [CUDA Tutorial](https://cuda-tutorial.github.io/)
+
+---
+
+#### **5. Videos**  
+Explore video tutorials and insights on GPU programming:  
+- [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
+- [Simon Oz - GPU Programming](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)  
+- [CUDA Programming](https://www.youtube.com/playlist?list=PLU0zjpa44nPXddA_hWV1U8oO7AevFgXnT)  
+- [George Hotz Archive](https://www.youtube.com/@geohotarchive/videos)
+
+---
+
+#### **6. Example Implementations**  
+Explore real-world examples and implementations:  
+- [llm.c](https://github.com/karpathy/llm.c)  
+- [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)  
+- [MNIST CUDA](https://github.com/Infatoshi/mnist-cuda)  
+- [Softmax](https://github.com/SzymonOzog/FastSoftmax)  
+- [YALM: LLM Inference in C++/CUDA](https://github.com/andrewkchan/yalm/tree/main)  
+- [llm.cpp: Training and Inference](https://github.com/karpathy/llm.c/tree/master)  
+- [CUTLASS Tutorial: Fast Matrix Multiplication with WGMMA on Hopper GPUs](https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/)
+
+---
+
+#### **7. Kernel Leaderboard**  
+Track performance and benchmarks of GPU kernels:  
+- [Kernel Leaderboard](https://scalingintelligence.stanford.edu/KernelBenchLeaderboard/)  
+- [KernelBench Blog](https://scalingintelligence.stanford.edu/blogs/kernelbench/)
+
+---
+
+#### **8. Benchmarking**  
+Compare GPU performance and analyze benchmarks:  
+- [MI300X vs H100 vs H200 Training Benchmarks](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)  
+- [Forecasting GPU Performance](https://arxiv.org/pdf/2407.13853)  
+- [Benchmarking Nvidia Hopper GPU Architecture](https://arxiv.org/pdf/2402.13499v1)  
+- [Maximum Achievable Matmul FLOPS Finder](https://github.com/stas00/ml-engineering/tree/master/compute/accelerator/benchmarks)
+
+---
+
+#### **9. Patterns and Algorithms**  
+Understand key HPC algorithms like matrix multiplication:  
+- [HPC Matmul Algorithms](https://en.algorithmica.org/hpc/algorithms/matmul/)
+
+---
+
+#### **10. Articles**  
+Insights into GPU performance and its nuances:  
+- [The GPU is Not Always Faster](https://cowfreedom.de/#dot_product/introduction/)
+
+---
+
+#### **11. CUDA Frameworks**  
+Explore CUDA-based frameworks for specific use cases:  
+- [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens)
+
+---
+
+#### **12. Papers**  
+Explore state-of-the-art research in GPU programming:  
+- [The Case for Co-Designing Model Architectures with Hardware](https://arxiv.org/pdf/2401.14489)
+
+---
+
+#### **13. Tools**  
+Useful tools for tuning and analyzing GPU performance:  
+- [Kernel Tuner](https://kerneltuner.github.io/kernel_tuner/stable/contents.html)
+
+---
+
+This resource list offers a comprehensive set of tools, tutorials, and materials to help developers advance their GPU programming expertise, from beginner to professional levels.
 
 ## Parallel computing
 - [Programming Parallel Computers](https://ppc.cs.aalto.fi/)
