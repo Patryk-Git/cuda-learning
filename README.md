@@ -1,4 +1,4 @@
-https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png
+<div align="center"><img src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="CUDA" width="150" height="150"></div> 
 
 
 Plan for becoming profesional CUDA (Deep Learning focused) programmer. CUDA from Zero to Hero.
