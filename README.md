@@ -21,13 +21,15 @@ This structured learning path guides you through the essential steps required to
    Master C++ programming as it serves as a foundation for CUDA development.  
    - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)  
    - 🇵🇱 [C++ od Podstaw do Eksperta](https://www.udemy.com/course/c-od-podstaw-do-eksperta/)  
-   - 🇵🇱 *Język C++ Kompendium Wiedzy*  
+   - 🇵🇱 *Język C++ Kompendium Wiedzy*
+   - [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)
 
 4. **Parallel Computing**:  
    Understand the basics of parallel computing and modern hardware architectures.  
    - [GPU Computing](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
    - 🇵🇱 [Programowanie równolegle z wykorzystaniem współczesnych architektur komputerowych z pamięcią współdzieloną](https://icis.pcz.pl/~khalbiniak/OpenMP/)  
-   - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)  
+   - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+   - [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
 
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
@@ -173,9 +175,3 @@ This resource list offers a comprehensive set of tools, tutorials, and materials
 ## Parallel computing
 - [Programming Parallel Computers](https://ppc.cs.aalto.fi/)
 
-## C++
-  1. Courses
-     - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
-     - [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI) i ogólnie kanał [CppCon](https://www.youtube.com/@CppCon)
-2. Threading
-   - [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
