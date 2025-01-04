@@ -169,6 +169,7 @@ Explore state-of-the-art research in GPU programming:
 
 #### **13. Tools**  
 Useful tools for tuning and analyzing GPU performance:  
+- [NVIDIA Nsight Compute](https://developer.nvidia.com/nsight-compute)
 - [Kernel Tuner](https://kerneltuner.github.io/kernel_tuner/stable/contents.html)
 
 ---
