@@ -63,6 +63,8 @@ This section focuses on understanding the fundamentals and optimization of matri
   - Ada Architecture: [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
   - GPU H100: [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
 - **Theory and Basics**:
+  - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
+  - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
   - [Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
 
 These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
