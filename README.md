@@ -97,6 +97,7 @@ Understand the underlying architecture of GPUs to optimize code efficiently:
 
 #### **3. Tutorials**  
 Learn the practical aspects of GPU programming with these tutorials:  
+- [GPU Puzzles - to solve](https://github.com/srush/gpu-puzzles) -> [Solved](https://github.com/isamu-isozaki/GPU-Puzzles-answers/blob/main/GPU_puzzlers.ipynb) 
 - [Accurate Timing of CUDA Kernels in PyTorch](https://www.speechmatics.com/company/articles-and-news/timing-operations-in-pytorch)
 
 ---
