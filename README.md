@@ -34,6 +34,7 @@ This structured learning path guides you through the essential steps required to
 
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
+   - 🇵🇱 🎥 [GPU Programming](https://www.youtube.com/watch?v=c8mQYGbT310&list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
    - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)  
    - 🎥 [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)  
