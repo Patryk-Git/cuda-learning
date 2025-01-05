@@ -54,10 +54,10 @@ This comprehensive learning path equips you with the skills needed to progress f
 ## Matmul ##
 This section focuses on understanding the fundamentals and optimization of matrix multiplication (Matmul), a cornerstone operation in CUDA programming and high-performance computing (HPC). The provided resources cover both CPU implementations and GPU optimizations, including the use of Tensor Cores on architectures like Ampere and Ada. These materials are essential for building a strong foundation in writing optimized CUDA code.
 
-#### Contents:
 - **Matmul on CPU**: Analysis of efficient matrix multiplication implementations on CPUs, with detailed examples of optimizations:
   - [Beating OpenBLAS in FP32 Matrix Multiplication: A Full Walkthrough](https://salykova.github.io/matmul-cpu)
   - [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
+  - [Matrix Multiplication on CPU](https://marek.ai/matrix-multiplication-on-cpu.html)
 - **CUDA Matmul Optimizations**:
   - Ampere Architecture: [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
   - Ada Architecture: [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
