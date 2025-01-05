@@ -67,6 +67,7 @@ This section focuses on understanding the fundamentals and optimization of matri
   - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
   - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
   - [Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+  - [Memory Coalescing and Tiled Matrix Multiplication](https://0mean1sigma.com/chapter-4-memory-coalescing-and-tiled-matrix-multiplication/)
 
 These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
 
