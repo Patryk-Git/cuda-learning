@@ -82,6 +82,7 @@ This section provides a curated collection of resources for learning, exploring,
 #### **1. Communities**  
 Engage with fellow developers and experts in the field of GPU programming:  
 - [NVIDIA CUDA Forum](https://forums.developer.nvidia.com/c/accelerated-computing/cuda/206)
+- [CUDA-MODE](https://discord.gg/gpumode)
 
 ---
 
