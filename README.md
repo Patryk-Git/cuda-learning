@@ -24,7 +24,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 📖 [Opus magnum C++11](https://www.ifj.edu.pl/private/grebosz/opus.html)
    - 🇵🇱 📖 *Język C++ Kompendium Wiedzy* by Bjarne Stroustrup
    - 🎥 [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)
-   - [📖](https://github.com/changkun/modern-cpp-tutorial)
+   - 📖[Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
 
 4. **Parallel Computing**:  
    Understand the basics of parallel computing and modern hardware architectures.  
