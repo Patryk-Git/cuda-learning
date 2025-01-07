@@ -41,7 +41,8 @@ This structured learning path guides you through the essential steps required to
    - 🎥 [CUDA Parallel Programming on NVIDIA GPUs - HW and SW](https://www.udemy.com/course/cuda-parallel-programming-on-nvidia-gpus-hw-and-sw/?couponCode=KEEPLEARNING)  
    - [CUDA Samples](https://github.com/NVIDIA/cuda-samples)  
    - 🎥 [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)  
-   - 📖 *Programming Massively Parallel Processors* by  David B. Kirk, Wen-mei W. Hwu  
+   - 📖 *Programming Massively Parallel Processors* by  David B. Kirk, Wen-mei W. Hwu
+   - 🎥 [CUDA training series](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)
 
 6. **Triton**:  
    Explore the Triton framework for GPU programming with efficient performance.  
