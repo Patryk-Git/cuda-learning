@@ -77,6 +77,7 @@ These resources provide a comprehensive theoretical and practical foundation in 
 
 ## Softmax ##
 - [How to write a fast Softmax CUDA kernel?](https://github.com/facebookincubator/AITemplate/wiki/How-to-write-a-fast-Softmax-CUDA-kernel%3F)
+- [How to Implement an Efficient Softmax CUDA Kernel— OneFlow Performance Optimization](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)
 
 ## GPU programming resources
 ### Description of the Section: GPU Programming Resources
