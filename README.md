@@ -75,6 +75,9 @@ This section focuses on understanding the fundamentals and optimization of matri
 
 These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
 
+## Softmax ##
+- [How to write a fast Softmax CUDA kernel?](https://github.com/facebookincubator/AITemplate/wiki/How-to-write-a-fast-Softmax-CUDA-kernel%3F)
+
 ## GPU programming resources
 ### Description of the Section: GPU Programming Resources
 
