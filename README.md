@@ -117,6 +117,7 @@ Comprehensive courses to deepen your GPU programming skills:
 - [CUDA Course](https://github.com/Infatoshi/cuda-course)  
 - [CUDA Tutorial Code Samples](https://github.com/CUDA-Tutorial/CodeSamples)  
 - [CUDA Tutorial](https://cuda-tutorial.github.io/)
+- [NVIDIA will present a 13-part CUDA training series](https://www.olcf.ornl.gov/cuda-training-series/)
 
 ---
 
