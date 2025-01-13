@@ -8,7 +8,7 @@ This structured learning path guides you through the essential steps required to
    Begin with C programming if you are unfamiliar with it. A solid understanding of C is mandatory before transitioning to C++ programming.  
    - 🇵🇱 [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)  
    - 🇵🇱 [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-jezyku-c)  
-   - *The C Programming Language (ANSI C)* by Brian Kernighan and Dennis Ritchie
+   - [The C Programming Language (ANSI C) by Brian Kernighan and Dennis Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
    - Practicing C programming [GPT-2 from Scratch in C - Part 1](https://youtu.be/d1LNUvkRMEg?si=j265w0Hoje-rxfrN) and [GPT-2 from Scratch in C - Part 2](https://youtu.be/j-kMKBQ1vkw?si=iGtmMMLi5DfMlvXf)
 
 2. **Data Structures**:  
