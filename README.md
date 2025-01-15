@@ -175,7 +175,7 @@ Insights into GPU performance and its nuances:
 
 #### **11. CUDA Frameworks**  
 Explore CUDA-based frameworks for specific use cases:  
-- [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens)
+- [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens) and [startet pack](https://docs.google.com/document/d/15-Zvf6e0NLX1si4ml4sUOWCDlXNMtOWKiuo6CKZMEYA/edit?usp=sharing)
 
 ---
 
