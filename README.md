@@ -34,6 +34,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
    - 🎥 [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
    - [Stanford CS149 - Parallel computing](https://gfxcourses.stanford.edu/cs149/fall24)
+   - []() 
 
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
