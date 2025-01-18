@@ -45,6 +45,7 @@ This structured learning path guides you through the essential steps required to
    - [CUDA Samples](https://github.com/NVIDIA/cuda-samples)  
    - 🎥 [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)  
    - 📖 *Programming Massively Parallel Processors* by  David B. Kirk, Wen-mei W. Hwu
+   - [Programming in Parallel with CUDA - programmers guide](https://www.perlego.com/book/4229601/programming-in-parallel-with-cuda-a-practical-guide-pdf)
    - 🎥 [CUDA training series](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)
 
 6. **Triton**:  
