@@ -34,7 +34,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
    - 🎥 [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/)
    - [Stanford CS149 - Parallel computing](https://gfxcourses.stanford.edu/cs149/fall24)
-   - []() 
+
 
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
@@ -195,6 +195,8 @@ Useful tools for tuning and analyzing GPU performance:
 - [Kernel Tuner](https://kerneltuner.github.io/kernel_tuner/stable/contents.html)
 - [LeetGPU - Only platform to write and run CUDA code. Without a GPU. For Free.](https://leetgpu.com/)
 
+### **14. CUTLAS**
+- [CUTLASS Tutorial: Persistent Kernels and Stream-K](https://research.colfax-intl.com/cutlass-tutorial-persistent-kernels-and-stream-k/)
 ---
 
 This resource list offers a comprehensive set of tools, tutorials, and materials to help developers advance their GPU programming expertise, from beginner to professional levels.
