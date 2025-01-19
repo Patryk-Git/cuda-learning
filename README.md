@@ -64,14 +64,14 @@ This section focuses on understanding the fundamentals and optimization of matri
 
 - **Matmul on CPU**: Analysis of efficient matrix multiplication implementations on CPUs, with detailed examples of optimizations:
   - [Beating OpenBLAS in FP32 Matrix Multiplication: A Full Walkthrough](https://salykova.github.io/matmul-cpu)
-  - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
   - [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
   - [Optimizing Matrix Multiplication](https://coffeebeforearch.github.io/2020/06/23/mmul.html)
   - [Matrix Multiplication on CPU](https://marek.ai/matrix-multiplication-on-cpu.html)
 - **CUDA Matmul Optimizations**:
+   - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
+   - GPU H100: [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
+   - Ada Architecture: [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
   - Ampere Architecture: [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
-  - Ada Architecture: [Implementing a fast Tensor Core matmul on the Ada Architecture](https://www.spatters.ca/mma-matmul)
-  - GPU H100: [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
   - [CUDA Matrix Multiplication Optimization](https://leimao.github.io/article/CUDA-Matrix-Multiplication-Optimization/)
   - [Learning CUDA by optimizing matrix-vector multiplication (SGEMV) for cuBLAS-like performance - A worklog](https://maharshi.bearblog.dev/optimizing-sgemv-cuda/)
 - **Theory and Basics**:
@@ -176,7 +176,6 @@ Insights into GPU performance and its nuances:
 - [The GPU is Not Always Faster](https://cowfreedom.de/#dot_product/introduction/)
 - [Series of articles explaining GPU programming](https://giahuy04.medium.com/) -> [Demystifying CPUs and GPUs: What You Need to Know](https://giahuy04.medium.com/demystifying-cpus-and-gpus-what-you-need-to-know-5bb423be726b), [How the way a computer works](https://giahuy04.medium.com/how-the-way-a-computer-works-a8b8d253da21), [Terminology in parallel programming](https://giahuy04.medium.com/terminology-in-parallel-programming-a2c4d7d062cf), [Hello world Cuda-C](https://giahuy04.medium.com/hello-world-cuda-c-ddfd7a8aeb8c), [The operational mechanism of CPU-GPU](https://giahuy04.medium.com/the-operational-mechanism-of-cpu-gpu-acf6e7723b2b), [Memory Types in GPU](https://ai.gopubby.com/memory-types-in-gpu-6373b7a0ca47), [Using GPU memory](https://giahuy04.medium.com/using-gpu-memory-a75e0fabe3f0), [Synchronization and Asynchronization](https://giahuy04.medium.com/synchronization-and-asynchronization-0024fe9e7329), [Unified memory](https://giahuy04.medium.com/unified-memory-81bb7c0f0270), [Pinned memory](https://giahuy04.medium.com/pinned-memory-5d408b72241d), [Streaming](https://giahuy04.medium.com/streaming-0fbc7b1a5fff), [Data Hazard](https://giahuy04.medium.com/data-hazard-cd0e9e50cce2), [Warp Scheduler](https://giahuy04.medium.com/warp-scheduler-f7318ef17920), [Global Memory Coalescing](https://giahuy04.medium.com/global-memory-coalescing-37a6f9d7e314), [Atomic Function](https://giahuy04.medium.com/atomic-function-9f5c5a414181),[Bandwidth — Throughput — Latency](https://giahuy04.medium.com/bandwidth-throughput-latency-935ada83d1ae),[Occupancy in GPU Part 1](https://giahuy04.medium.com/occupancy-in-gpu-ddb0b1f16b20), [Occupancy in GPU Part 2](https://giahuy04.medium.com/occupancy-part-2-7a5c671a1fb0)
 - [Recreating PyTorch from Scratch - with GPU Support and Automatic Differentiation](https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc)
-- 
 
 ---
 
