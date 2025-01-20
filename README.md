@@ -49,9 +49,11 @@ This structured learning path guides you through the essential steps required to
    - 🎥 [GPU Programming](https://www.youtube.com/watch?v=c8mQYGbT310&list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_) 
 
-6. **Triton**:  
+6. **Triton, ThunderKittens, Tile-Lang**:  
    Explore the Triton framework for GPU programming with efficient performance.  
-   - [Remek's Triton Repo](https://github.com/rkinas/triton-resources)  
+   - [Remek's Triton Repo](https://github.com/rkinas/triton-resources)
+   - [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens) and [startet pack](https://docs.google.com/document/d/15-Zvf6e0NLX1si4ml4sUOWCDlXNMtOWKiuo6CKZMEYA/edit?usp=sharing)
+   - [Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU/CPU kernels (e.g., GEMM, Dequant GEMM, FlashAttention, LinearAttention)](https://github.com/tile-ai/tilelang) 
 
 7. **GPU Architecture and Glossary**:  
    Familiarize yourself with GPU architecture and terminology to deepen your understanding of hardware capabilities.  
@@ -179,26 +181,20 @@ Insights into GPU performance and its nuances:
 
 ---
 
-#### **11. CUDA Frameworks**  
-Explore CUDA-based frameworks for specific use cases:  
-- [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens) and [startet pack](https://docs.google.com/document/d/15-Zvf6e0NLX1si4ml4sUOWCDlXNMtOWKiuo6CKZMEYA/edit?usp=sharing)
-
----
-
-#### **12. Papers**  
+#### **11. Papers**  
 Explore state-of-the-art research in GPU programming:  
 - [The Case for Co-Designing Model Architectures with Hardware](https://arxiv.org/pdf/2401.14489)
 
 ---
 
-#### **13. Tools**  
+#### **12. Tools**  
 Useful tools for tuning and analyzing GPU performance:  
 - [NVIDIA Nsight Compute](https://developer.nvidia.com/nsight-compute)
 - [CUDA Profiler User Guide](https://docs.nvidia.com/cuda/profiler-users-guide/contents.html)
 - [Kernel Tuner](https://kerneltuner.github.io/kernel_tuner/stable/contents.html)
 - [LeetGPU - Only platform to write and run CUDA code. Without a GPU. For Free.](https://leetgpu.com/)
 
-### **14. CUTLAS**
+### **13. CUTLAS**
 - [CUTLASS Tutorial: Persistent Kernels and Stream-K](https://research.colfax-intl.com/cutlass-tutorial-persistent-kernels-and-stream-k/)
 - [CUTLASS Tutorial: Efficient GEMM kernel designs with Pipelining](https://research.colfax-intl.com/cutlass-tutorial-design-of-a-gemm-kernel/)
 - [CUTLASS Tutorial: Fast Matrix-Multiplication with WGMMA on NVIDIA® Hopper™ GPUs](https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/)
