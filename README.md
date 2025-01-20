@@ -50,7 +50,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_) 
 
 6. **Triton, ThunderKittens, Tile-Lang**:  
-   Explore the Triton framework for GPU programming with efficient performance.  
+   Explore the Triton, ThunderKittens, Tile-Lang frameworks for GPU programming with efficient performance.  
    - [Remek's Triton Repo](https://github.com/rkinas/triton-resources)
    - [ThunderKittens Framework](https://github.com/HazyResearch/ThunderKittens) and [startet pack](https://docs.google.com/document/d/15-Zvf6e0NLX1si4ml4sUOWCDlXNMtOWKiuo6CKZMEYA/edit?usp=sharing)
    - [Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU/CPU kernels (e.g., GEMM, Dequant GEMM, FlashAttention, LinearAttention)](https://github.com/tile-ai/tilelang) 
