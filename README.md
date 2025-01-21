@@ -47,7 +47,8 @@ This structured learning path guides you through the essential steps required to
    - [Programming in Parallel with CUDA - programmers guide](https://www.perlego.com/book/4229601/programming-in-parallel-with-cuda-a-practical-guide-pdf)
    - 🎥 [CUDA training series](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)
    - 🎥 [GPU Programming](https://www.youtube.com/watch?v=c8mQYGbT310&list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
-   - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_) 
+   - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
+   - [100Days of CUDA programming](https://github.com/1y33/100Days)
 
 6. **Triton, ThunderKittens, Tile-Lang**:  
    Explore the Triton, ThunderKittens, Tile-Lang frameworks for GPU programming with efficient performance.  
