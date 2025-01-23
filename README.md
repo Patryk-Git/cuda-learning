@@ -49,6 +49,7 @@ This structured learning path guides you through the essential steps required to
    - 🎥 [GPU Programming](https://www.youtube.com/watch?v=c8mQYGbT310&list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
    - [100Days of CUDA programming](https://github.com/1y33/100Days)
+   - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
 
 6. **Triton, ThunderKittens, Tile-Lang**:  
    Explore the Triton, ThunderKittens, Tile-Lang frameworks for GPU programming with efficient performance.  
