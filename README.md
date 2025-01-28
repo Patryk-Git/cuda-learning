@@ -65,6 +65,13 @@ This structured learning path guides you through the essential steps required to
    - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
    - [100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
    - [100 days of CUDA challenge](https://github.com/SwekeR-463/100kernels)
+   - [100 days of CUDA challenge](https://github.com/rajneel18/100_CUDA_Kernels)
+   - [100 days of CUDA challenge](https://github.com/sanjivch/100-days-of-gpu)
+   - [100 days of CUDA challenge](https://github.com/prateekshukla1108/100-daysofcuda)
+   - [100 days of CUDA challenge](https://github.com/kmohan321/CUDA)
+   - [100 days of CUDA challenge](https://github.com/psvkaushik/100_Days_CUDA)
+   - [100 days of CUDA challenge](https://github.com/harshkumarchourasia/100DaysOfGPU)
+   - [100 days of CUDA challenge](https://github.com/zmusaddique/100daysCUDA/tree/main)
    - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
    - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
 
