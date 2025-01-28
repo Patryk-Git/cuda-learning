@@ -48,11 +48,7 @@ This structured learning path guides you through the essential steps required to
    - 🎥 [CUDA training series](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)
    - 🎥 [GPU Programming](https://www.youtube.com/watch?v=c8mQYGbT310&list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
-   - [100Days of CUDA programming](https://github.com/1y33/100Days)
-   - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
-   - [100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
-   - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
-   - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
+ 
 
 6. **Triton, ThunderKittens, Tile-Lang**:  
    Explore the Triton, ThunderKittens, Tile-Lang frameworks for GPU programming with efficient performance.  
@@ -62,7 +58,15 @@ This structured learning path guides you through the essential steps required to
 
 7. **GPU Architecture and Glossary**:  
    Familiarize yourself with GPU architecture and terminology to deepen your understanding of hardware capabilities.  
-   - [GPU Glossary](https://modal.com/gpu-glossary)  
+   - [GPU Glossary](https://modal.com/gpu-glossary)
+  
+8. **100Days of CUDA programming
+   - [100Days of CUDA programming](https://github.com/1y33/100Days)
+   - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
+   - [100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
+   - [100 days of CUDA challenge](https://github.com/SwekeR-463/100kernels)
+   - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
+   - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
 
 This comprehensive learning path equips you with the skills needed to progress from foundational programming to advanced CUDA development, paving the way for a career in GPU-accelerated computing.
 
