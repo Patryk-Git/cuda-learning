@@ -207,6 +207,9 @@ Useful tools for tuning and analyzing GPU performance:
 - [Tutorial: Matrix Transpose in CUTLASS](https://research.colfax-intl.com/tutorial-matrix-transpose-in-cutlass/)
 ---
 
+### **14. Other**
+- [The Rust CUDA Project](https://github.com/rust-gpu/rust-cuda)
+
 This resource list offers a comprehensive set of tools, tutorials, and materials to help developers advance their GPU programming expertise, from beginner to professional levels.
 
 ## Parallel computing
