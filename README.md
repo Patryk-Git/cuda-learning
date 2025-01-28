@@ -50,6 +50,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 [CUDA - Tomasz Jasiukiewicz](https://www.youtube.com/watch?v=LNA_CYZbDtY&list=PLoHYlZuJfhOGHKKEwt4tn8KUTJvbbtRL_)
    - [100Days of CUDA programming](https://github.com/1y33/100Days)
    - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
+   - [100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
    - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
    - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
 
