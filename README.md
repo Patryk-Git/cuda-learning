@@ -61,17 +61,23 @@ This structured learning path guides you through the essential steps required to
    - [GPU Glossary](https://modal.com/gpu-glossary)
   
 8. **100Days of CUDA programming
-   - [100Days of CUDA programming](https://github.com/1y33/100Days)
-   - [100Days of CUDA programming](https://github.com/a-hamdi/cuda)
-   - [100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
-   - [100 days of CUDA challenge](https://github.com/SwekeR-463/100kernels)
-   - [100 days of CUDA challenge](https://github.com/rajneel18/100_CUDA_Kernels)
-   - [100 days of CUDA challenge](https://github.com/sanjivch/100-days-of-gpu)
-   - [100 days of CUDA challenge](https://github.com/prateekshukla1108/100-daysofcuda)
-   - [100 days of CUDA challenge](https://github.com/kmohan321/CUDA)
-   - [100 days of CUDA challenge](https://github.com/psvkaushik/100_Days_CUDA)
-   - [100 days of CUDA challenge](https://github.com/harshkumarchourasia/100DaysOfGPU)
-   - [100 days of CUDA challenge](https://github.com/zmusaddique/100daysCUDA/tree/main)
+   - [1y33 - 100Days of CUDA programming](https://github.com/1y33/100Days)
+   - [a-hamdi - 100Days of CUDA programming](https://github.com/a-hamdi/cuda)
+   - [hkproj - 100 days of CUDA challenge](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
+   - [SwekeR-463 - 100 days of CUDA challenge](https://github.com/SwekeR-463/100kernels)
+   - [rajneel18 - 100 days of CUDA challenge](https://github.com/rajneel18/100_CUDA_Kernels)
+   - [sanjivch - 100 days of CUDA challenge](https://github.com/sanjivch/100-days-of-gpu)
+   - [prateekshukla1108 - 100 days of CUDA challenge](https://github.com/prateekshukla1108/100-daysofcuda)
+   - [kmohan321 - 100 days of CUDA challenge](https://github.com/kmohan321/CUDA)
+   - [psvkaushik - 100 days of CUDA challenge](https://github.com/psvkaushik/100_Days_CUDA)
+   - [harshkumarchourasia - 100 days of CUDA challenge](https://github.com/harshkumarchourasia/100DaysOfGPU)
+   - [zmusaddique- 100 days of CUDA challenge](https://github.com/zmusaddique/100daysCUDA/tree/main)
+   - [AramBughdaryan- 100 days of CUDA challenge](https://github.com/AramBughdaryan/cuda)
+   - [Firojpaudel- 100 days of CUDA challenge](https://github.com/Firojpaudel/100_days_of_CUDA)
+   - [nevernever69 - 100 days of CUDA challenge](https://github.com/nevernever69/100-days-of-cuda)
+   - [derekdeming - 100 days of CUDA challenge](https://github.com/derekdeming/tinyCuda)
+   - [saurav997 - 100 days of CUDA challenge](https://github.com/saurav997/100DaysOfCuda)
+   - [PredictiveManish - 100 days of CUDA challenge](https://github.com/PredictiveManish/100days)
    - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
    - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
 
@@ -105,6 +111,7 @@ These resources provide a comprehensive theoretical and practical foundation in 
 - [Learning CUDA by optimizing softmax: A worklog](https://maharshi.bearblog.dev/optimizing-softmax-cuda/)
 - [How to write a fast Softmax CUDA kernel?](https://github.com/facebookincubator/AITemplate/wiki/How-to-write-a-fast-Softmax-CUDA-kernel%3F)
 - [How to Implement an Efficient Softmax CUDA Kernel— OneFlow Performance Optimization](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)
+- [Optimizing Softmax on CUDA: A Dive into High-Performance Kernels](https://1y33.github.io/blog/softmax_optimization/)
 
 ## GPU programming resources
 ### Description of the Section: GPU Programming Resources
