@@ -60,7 +60,7 @@ This structured learning path guides you through the essential steps required to
    Familiarize yourself with GPU architecture and terminology to deepen your understanding of hardware capabilities.  
    - [GPU Glossary](https://modal.com/gpu-glossary)
   
-8. **100Days of CUDA programming
+8. **100Days of CUDA programming**:
    - [100Days of CUDA programming - list of challnages (a lot of repos as a source of challange inspirations)](https://github.com/hkproj/100-days-of-gpu)
    - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
    - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
