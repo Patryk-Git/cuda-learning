@@ -78,6 +78,8 @@ This structured learning path guides you through the essential steps required to
    - [derekdeming - 100 days of CUDA challenge](https://github.com/derekdeming/tinyCuda)
    - [saurav997 - 100 days of CUDA challenge](https://github.com/saurav997/100DaysOfCuda)
    - [PredictiveManish - 100 days of CUDA challenge](https://github.com/PredictiveManish/100days)
+   - [vectorquantized - 100 days of CUDA challenge](https://github.com/vectorquantized/100daysofcuda)
+   - [khushwant04 - 100 days of CUDA challenge](https://github.com/khushwant04/100-Days-CUDA.git)
    - [CUDA 120 days challange](https://github.com/AdepojuJeremy/Cuda-120-Days-Challenge/tree/main?tab=readme-ov-file)
    - [Learning GPU Programming 30 days plan](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
 
