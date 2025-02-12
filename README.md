@@ -97,6 +97,9 @@ These resources provide a comprehensive theoretical and practical foundation in 
 - [How to Implement an Efficient Softmax CUDA Kernel— OneFlow Performance Optimization](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)
 - [Optimizing Softmax on CUDA: A Dive into High-Performance Kernels](https://1y33.github.io/blog/softmax_optimization/)
 
+## Sort ##
+- [Performance Optimization of torch.sort on GPU](https://yywangcs.notion.site/Performance-Optimization-of-torch-sort-on-GPU-192fc9f5d8058018a1bec1efa35da3f9)
+
 ## GPU programming resources
 ### Description of the Section: GPU Programming Resources
 
