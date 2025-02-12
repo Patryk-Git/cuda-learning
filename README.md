@@ -83,6 +83,7 @@ This section focuses on understanding the fundamentals and optimization of matri
   - [CUDA Matrix Multiplication Optimization](https://leimao.github.io/article/CUDA-Matrix-Multiplication-Optimization/)
   - [Learning CUDA by optimizing matrix-vector multiplication (SGEMV) for cuBLAS-like performance - A worklog](https://maharshi.bearblog.dev/optimizing-sgemv-cuda/)
   - [Matrix Multiplication with CUDA — A basic introduction to the CUDA programming model](http://www.shodor.org/media/content/petascale/materials/UPModules/matrixMultiplication/moduleDocument.pdf)
+  - [Inconsistency in GEMM Performance](https://yywangcs.notion.site/Inconsistency-in-GEMM-Performance-16efc9f5d80580838090dded05493014)
 - **Theory and Basics**:
   - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
   - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
@@ -191,6 +192,7 @@ Insights into GPU performance and its nuances:
 - [Recreating PyTorch from Scratch - with GPU Support and Automatic Differentiation](https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc)
 - [CUDA](https://stevengong.co/notes/CUDA)
 - [A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up](https://github.com/adam-maj/tiny-gpu)
+- [Performance Optimization of Embedding Computation on GPU Part 1: GPU Occupancy Optimization](https://yywangcs.notion.site/Performance-Optimization-of-Embedding-Computation-on-GPU-Part-1-GPU-Occupancy-Optimization-178fc9f5d805800e91b6d4490afcc665)
 
 ---
 
