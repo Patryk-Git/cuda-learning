@@ -84,6 +84,8 @@ This section focuses on understanding the fundamentals and optimization of matri
   - [Learning CUDA by optimizing matrix-vector multiplication (SGEMV) for cuBLAS-like performance - A worklog](https://maharshi.bearblog.dev/optimizing-sgemv-cuda/)
   - [Matrix Multiplication with CUDA — A basic introduction to the CUDA programming model](http://www.shodor.org/media/content/petascale/materials/UPModules/matrixMultiplication/moduleDocument.pdf)
   - [Inconsistency in GEMM Performance](https://yywangcs.notion.site/Inconsistency-in-GEMM-Performance-16efc9f5d80580838090dded05493014)
+  - [Fastest GPU kernels, written from scratch.](https://github.com/pranjalssh/fast.cu)
+  - [GPU Mode - Lecture 45: Outperforming cuBLAS on H100](https://www.youtube.com/watch?v=ErTmTCRP1_U)
 - **Theory and Basics**:
   - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
   - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
