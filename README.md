@@ -162,6 +162,7 @@ Explore real-world examples and implementations:
 - [YALM: LLM Inference in C++/CUDA](https://github.com/andrewkchan/yalm/tree/main)  
 - [llm.cpp: Training and Inference](https://github.com/karpathy/llm.c/tree/master)  
 - [CUTLASS Tutorial: Fast Matrix Multiplication with WGMMA on Hopper GPUs](https://research.colfax-intl.com/cutlass-tutorial-wgmma-hopper/)
+- [Many many CUDA kernels from "100 days of CUDA challange"](https://github.com/prateekshukla1108/kernels-project-popcorn)
 
 ---
 
