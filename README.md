@@ -86,6 +86,7 @@ This section focuses on understanding the fundamentals and optimization of matri
   - [Inconsistency in GEMM Performance](https://yywangcs.notion.site/Inconsistency-in-GEMM-Performance-16efc9f5d80580838090dded05493014)
   - [Fastest GPU kernels, written from scratch.](https://github.com/pranjalssh/fast.cu)
   - [GPU Mode - Lecture 45: Outperforming cuBLAS on H100](https://www.youtube.com/watch?v=ErTmTCRP1_U)
+  - [Insanely Fast H100 Matrix Multiplication](https://github.com/ademeure/hopperian_tensor)
 - **Theory and Basics**:
   - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
   - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
