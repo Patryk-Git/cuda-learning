@@ -224,6 +224,10 @@ Useful tools for tuning and analyzing GPU performance:
 ### **14. Other**
 - [The Rust CUDA Project](https://github.com/rust-gpu/rust-cuda)
 
+### **15. CUDA kernel generators**
+- [The AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition](https://sakana.ai/ai-cuda-engineer/)
+- [Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)
+
 This resource list offers a comprehensive set of tools, tutorials, and materials to help developers advance their GPU programming expertise, from beginner to professional levels.
 
 ## Parallel computing
